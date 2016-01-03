@@ -1,6 +1,6 @@
 name: Positioner
 favicon: null
-layout_spectrum: 0.7851890213787556
+layout_spectrum: 0.87784
 typography_spectrum: 0.9689929236192256
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.37003358849324286
-  lightness: 0.7486086033750325
-  saturation: 0.20137049513868988
+    - '#fbfbfb'
+    - '#022940'
+    - '#666d73'
+    - '#c0b7b0'
+    - '#6f031a'
+  brandStrength: 0.3125
+  lightness: 0.75
+  saturation: 0.375
   rhythmicContrast: 0.8471131462138146
 purpose: []
