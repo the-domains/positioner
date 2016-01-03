@@ -2,6 +2,7 @@ name: Positioner
 favicon: null
 layout_spectrum: 0.87784
 typography_spectrum: 0.9689929236192256
+title: Positioner
 cta:
   domain: null
   bucket: null
